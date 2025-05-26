@@ -1,0 +1,7 @@
+C:\Users\Janek\source\repos\AAIiD\AAIiD\bin\Debug\AAIiD.exe.config
+C:\Users\Janek\source\repos\AAIiD\AAIiD\bin\Debug\AAIiD.exe
+C:\Users\Janek\source\repos\AAIiD\AAIiD\bin\Debug\AAIiD.pdb
+C:\Users\Janek\source\repos\AAIiD\AAIiD\obj\Debug\AAIiD.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\AAIiD\AAIiD\obj\Debug\AAIiD.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\AAIiD\AAIiD\obj\Debug\AAIiD.exe
+C:\Users\Janek\source\repos\AAIiD\AAIiD\obj\Debug\AAIiD.pdb

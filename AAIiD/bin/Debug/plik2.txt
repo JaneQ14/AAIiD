@@ -1,0 +1,93 @@
+Ah, the age-old question. Should you get the new iPhone? Our philosophy here at WIRED is that you should only upgrade if you need to. Is your current phone operating perfectly fine? If the experience is OK for the most part but maybe your battery life has deteriorated, try doing a battery swap first—Apple offers a battery replacement program for a modest fee—and this could breathe new life into your device. There are also more ways to repair an iPhone than ever before.
+
+But if your current phone is frustrating to use, upgrade! Like the iPhone 15 range, the entire iPhone 16 lineup has a USB-C port. These devices can also take advantage of Apple Intelligence (alongside the iPhone 15 Pro)—if that's something you care about.
+
+If you've decided to do it, read our guide on how to sell your iPhone. Make sure you back up your iPhone first, and factory-reset it to erase your data from the device. We also have tips on how to set up your new iPhone to get the most out of your new handset.
+Which iPhone 16 Model Is Right for You?
+
+The iPhone 16 range includes the iPhone 16e, iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max. The iPhone 16 and 16 Plus are identical except for screen size and battery life. The same is true for both Pro models. Between those two pairs, the decision comes down to whether you want a small or big phone.
+
+How does the iPhone 16e compare? It's the same size as the iPhone 16, but since it's the cheapest, Apple has cut a few features to hit that $599 price. The design is notably different—there's no color-infused glass back here. It's powered by the A18 chip, but it lacks one GPU core for a total of four as opposed to the five-core GPU on the standard iPhone 16. That means a slight hit to graphics performance, impacting games and other demanding tasks. Unlike the rest of the range, this iPhone does not have the Dynamic Island floating selfie camera system but instead uses the notch camera design like on the original iPhone X.
+Most Popular
+
+    The Best Android Phones, Tested and Reviewed
+    Buying Guides
+    The Best Android Phones, Tested and Reviewed
+    By Julian Chokkattu
+    Am I the Asshole if I Don’t Put My Phone on Airplane Mode?
+    How To and Advice
+    Am I the Asshole if I Don’t Put My Phone on Airplane Mode?
+    By Boutayna Chokrane
+    The Best Way to Roast a Chicken Is on a Stick
+    Trends
+    The Best Way to Roast a Chicken Is on a Stick
+    By Joe Ray
+    The Best Wireless Earbuds for Everyone
+    Buying Guides
+    The Best Wireless Earbuds for Everyone
+    By Parker Hall
+
+Hand pinching a mobile phone in horizontal orientation while in camera mode
+
+The iPhone 16 and the Camera Control button, which lets you slide your finger on it for additional controls. Photograph: Julian Chokkattu
+
+The bigger iPhones tend to have the best battery life. The iPhone 16 Pro Max and iPhone 16 Plus handily gave me hours of extra run time over their smaller siblings. You can take the bigger phones into the morning of a second day on a single charge, even with heavy use. If battery life is your top priority, choose between the largest models.
+
+However, the iPhone 16e beats the iPhone 16 in battery run time despite being the same size. This is because it's the first time Apple is using its own modem—the C1 chip—which the company claims is more efficient, thereby saving battery life. Apple says the iPhone 16e can last up to 21 hours of streamed video playback, whereas the iPhone 16 hit 18 hours. In my tests, the iPhone 16e easily outlasted the iPhone 16—I hit 9 hours of screen-on time and had 15 percent left by bedtime on one particularly intensive day. That's fantastic.
+
+All of these iPhones have the Action button, which replaces the Mute switch and is now configurable, so you can replicate the Mute switch functionality or execute another action, like turning on a flashlight or triggering a shortcut. All of them except for the iPhone 16e sport the new Camera Control button. You can use it to open the camera and take a photo, but a light press shows different camera modes, and you can slide your finger left or right across the button's surface to cycle through various modes, zoom levels, and more.
+
+You can use this button to trigger Visual Intelligence, Apple's version of Google Lens—point your iPhone at something in the real world to get more information about it. iPhone 16e users can still access this feature through the Action Button or Control Center, and that capability will also be rolling out to the iPhone 15 Pro in the coming weeks.
+Most Popular
+
+    The Best Android Phones, Tested and Reviewed
+    Buying Guides
+    The Best Android Phones, Tested and Reviewed
+    By Julian Chokkattu
+    Am I the Asshole if I Don’t Put My Phone on Airplane Mode?
+    How To and Advice
+    Am I the Asshole if I Don’t Put My Phone on Airplane Mode?
+    By Boutayna Chokrane
+    The Best Way to Roast a Chicken Is on a Stick
+    Trends
+    The Best Way to Roast a Chicken Is on a Stick
+    By Joe Ray
+    The Best Wireless Earbuds for Everyone
+    Buying Guides
+    The Best Wireless Earbuds for Everyone
+    By Parker Hall
+
+Hand holding a thin blue mobile phone showing the side buttons
+
+The Camera Control button on the iPhone 16. Photograph: Julian Chokkattu
+
+Every iPhone 16 model can now take advantage of a cool video feature called Audio Mix. This lets you change how your videos sound when you're editing them by choosing a sound profile. These include In-Frame, which focuses the audio on whoever is in the frame; Studio, which makes it sound like you were in a studio, cutting all background noise; and Cinematic, which makes sure whoever is at the center of the frame comes in clear, with a little bit of ambient noise mixed in. This feature performs slightly better on the iPhone 16 Pro models, since they have upgraded microphones.
+
+The redesigned Photographic Styles are also available in the entire range except the iPhone 16e. These are almost like filters but better—instead of changing the look of the whole image, these Styles can maintain skin tones so they don't look weird and can adjust other parts of the photo like shadows and highlights. They're among the standout features, so play around with them! Apple is also giving you more control over how your skin tone looks, instead of going for more of a one-size-fits-all approach like Google does with its Pixel phones.
+Apple iPhone 16E mobile phone from the front and back in both black and white
+
+The iPhone 16e. Photograph: Apple
+Most Popular
+
+    The Best Android Phones, Tested and Reviewed
+    Buying Guides
+    The Best Android Phones, Tested and Reviewed
+    By Julian Chokkattu
+    Am I the Asshole if I Don’t Put My Phone on Airplane Mode?
+    How To and Advice
+    Am I the Asshole if I Don’t Put My Phone on Airplane Mode?
+    By Boutayna Chokrane
+    The Best Way to Roast a Chicken Is on a Stick
+    Trends
+    The Best Way to Roast a Chicken Is on a Stick
+    By Joe Ray
+    The Best Wireless Earbuds for Everyone
+    Buying Guides
+    The Best Wireless Earbuds for Everyone
+    By Parker Hall
+
+Apple Intelligence is the headline feature, and the only way to try out the new artificial intelligence capabilities is to use a phone that supports it: the iPhone 16 range, the iPhone 15 Pro, or the iPhone 15 Pro Max. I covered these features in broader detail in our iOS 18 guide and evaluated many of the features here. To summarize, it includes a revamped Siri experience, real-time audio transcription in Voice Notes and Notes (even call recording), and writing assistance features like proofreading and changing the tone of your messages. You can create custom emojis through Genmoji, generate images via Image Playground, and tap into ChatGPT via Siri.
+
+The basics are otherwise the same across the board. They sport an IP68 water-resistance rating and have OLED screens that can hit a peak brightness of 2,000 nits in outdoor sunny conditions, though the iPhone 16e is restricted to 1,200 nits. Apple's new twice-as-strong Ceramic Shield glass on the front is available on all of them except the iPhone 16e, which uses an older version of Ceramic Shield (glass is still glass, so get a case).
+
+Once again, all but the iPhone 16e feature MagSafe wireless charging, which supports the Qi2 standard for wider compatibility with accessories; Apple is selling a new MagSafe Wireless Charger that can juice up these phones even faster, and it finally has a longer cable. The iPhone 16e has basic Qi wireless charging, which is slower and less energy-efficient, but since there are no built-in magnets, you cannot enjoy the wealth of MagSafe accessories unless you use a MagSafe case.
