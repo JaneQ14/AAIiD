@@ -90,6 +90,7 @@ namespace AAIiD
             CW_11.Start();
 
             Console.WriteLine();
+            Console.ReadKey();
         }
     }
 }
