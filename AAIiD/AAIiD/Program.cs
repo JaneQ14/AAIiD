@@ -60,12 +60,12 @@ namespace AAIiD
             
             
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("\n\n\tĆwiczenie nr 6 – algorytmy operacji na macierzy");
+            Console.WriteLine("\n\n\tĆwiczenie nr 6 – obliczanie liczby Fibonacciego");
             Console.ResetColor();
             CW_6.Start();
 
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("\n\n\tĆwiczenie nr 7 – algorytmy operacji na macierzy");
+            Console.WriteLine("\n\n\tĆwiczenie nr 7 – przeszukiwanie grafu");
             Console.ResetColor();
             CW_7.Start();
 

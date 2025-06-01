@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Janek\\source\\repos\\AAIiD\\",
+  "WorkspaceRootPath": "C:\\Users\\Janek\\source\\repos\\AAIiD\\AAIiD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A070CCD-3D64-4A53-9482-0273512E4197}|AAIiD\\AAIiD.csproj|c:\\users\\janek\\source\\repos\\aaiid\\aaiid\\cw_11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A070CCD-3D64-4A53-9482-0273512E4197}|AAIiD\\AAIiD.csproj|C:\\Users\\Janek\\source\\repos\\AAIiD\\AAIiD\\aaiid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A070CCD-3D64-4A53-9482-0273512E4197}|AAIiD\\AAIiD.csproj|solutionrelative:aaiid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A070CCD-3D64-4A53-9482-0273512E4197}|AAIiD\\AAIiD.csproj|c:\\users\\janek\\source\\repos\\aaiid\\aaiid\\aaiid\\cw_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A070CCD-3D64-4A53-9482-0273512E4197}|AAIiD\\AAIiD.csproj|solutionrelative:aaiid\\cw_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A070CCD-3D64-4A53-9482-0273512E4197}|AAIiD\\AAIiD.csproj|c:\\users\\janek\\source\\repos\\aaiid\\aaiid\\aaiid\\cw_11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A070CCD-3D64-4A53-9482-0273512E4197}|AAIiD\\AAIiD.csproj|solutionrelative:aaiid\\cw_11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A070CCD-3D64-4A53-9482-0273512E4197}|AAIiD\\AAIiD.csproj|C:\\Users\\Janek\\source\\repos\\AAIiD\\aaiid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A070CCD-3D64-4A53-9482-0273512E4197}|AAIiD\\AAIiD.csproj|solutionrelative:aaiid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A070CCD-3D64-4A53-9482-0273512E4197}|AAIiD\\AAIiD.csproj|c:\\users\\janek\\source\\repos\\aaiid\\aaiid\\aaiid\\cw_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A070CCD-3D64-4A53-9482-0273512E4197}|AAIiD\\AAIiD.csproj|solutionrelative:aaiid\\cw_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "CW_7.cs",
+              "DocumentMoniker": "C:\\Users\\Janek\\source\\repos\\AAIiD\\AAIiD\\AAIiD\\CW_7.cs",
+              "RelativeDocumentMoniker": "AAIiD\\CW_7.cs",
+              "ToolTip": "C:\\Users\\Janek\\source\\repos\\AAIiD\\AAIiD\\AAIiD\\CW_7.cs",
+              "RelativeToolTip": "AAIiD\\CW_7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T10:33:33.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CW_6.cs",
+              "DocumentMoniker": "C:\\Users\\Janek\\source\\repos\\AAIiD\\AAIiD\\AAIiD\\CW_6.cs",
+              "RelativeDocumentMoniker": "AAIiD\\CW_6.cs",
+              "ToolTip": "C:\\Users\\Janek\\source\\repos\\AAIiD\\AAIiD\\AAIiD\\CW_6.cs",
+              "RelativeToolTip": "AAIiD\\CW_6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T10:32:59.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CW_11.cs",
-              "DocumentMoniker": "C:\\Users\\Janek\\source\\repos\\AAIiD\\AAIiD\\CW_11.cs",
+              "DocumentMoniker": "C:\\Users\\Janek\\source\\repos\\AAIiD\\AAIiD\\AAIiD\\CW_11.cs",
               "RelativeDocumentMoniker": "AAIiD\\CW_11.cs",
-              "ToolTip": "C:\\Users\\Janek\\source\\repos\\AAIiD\\AAIiD\\CW_11.cs",
+              "ToolTip": "C:\\Users\\Janek\\source\\repos\\AAIiD\\AAIiD\\AAIiD\\CW_11.cs",
               "RelativeToolTip": "AAIiD\\CW_11.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T11:47:45.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Janek\\source\\repos\\AAIiD\\AAIiD\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Janek\\source\\repos\\AAIiD\\AAIiD\\AAIiD\\Program.cs",
               "RelativeDocumentMoniker": "AAIiD\\Program.cs",
-              "ToolTip": "C:\\Users\\Janek\\source\\repos\\AAIiD\\AAIiD\\Program.cs",
+              "ToolTip": "C:\\Users\\Janek\\source\\repos\\AAIiD\\AAIiD\\AAIiD\\Program.cs",
               "RelativeToolTip": "AAIiD\\Program.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAwwFsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwD4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T16:48:06.71Z",
               "EditorCaption": ""
